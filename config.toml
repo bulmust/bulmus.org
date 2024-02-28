@@ -17,10 +17,10 @@ paginate = 3
 preserveTaxonomyNames = true
 
 [params]
-  orgName = "Formspree"
-  orgLocal = "Brooklyn, NY"
+  orgName = "Taygun"
+  orgLocal = "Turkey"
   favicon = "/img/favicon.ico?v=0"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/icon.png"
   # font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -48,12 +48,12 @@ preserveTaxonomyNames = true
 
 [social]
   # social accounts (username only)
-  facebook = "formspree"
+  facebook = ""
   facebook_admin = "" # Facebook Page Admin ID for Domain Insights
   instagram = ""
   youtube = ""
-  twitter = "formspree"
-  github = "formspree"
+  twitter = ""
+  github = "bulmust"
   medium = ""
 
 [taxonomies]

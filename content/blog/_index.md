@@ -1,11 +1,11 @@
 ---
-title: A Blog That's Real
-description: "This is a fully featured blog that supports categories, tags, series, and pagination."
-author: The Team at Formspree
-images:
-  - https://via.placeholder.com/960x480?text=SECTION+IMAGE
+title: Taygun Bulmus Blog
+description: "Taygun Bulmus Blog"
+author: Taygun Bulmus
+# images:
+  # - 
 date: 2024-02-28
-publishDate: 2019-02-20T09:31:27-06:00
+publishDate: 2024-02-28
 layout: list-sidebar # list, list-sidebar, list-grid
 show_post_thumbnail: true
 show_author_byline: true
