@@ -1,0 +1,8 @@
+*.DS_Store
+public/
+resources/
+node_modules/
+
+# tmp files
+/tmp
+.hugo_build.lock
