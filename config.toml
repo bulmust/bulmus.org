@@ -2,7 +2,7 @@ baseURL = "https://bulmust.github.io/"
 languageCode = "en"
 title = "Taygun Bulmus"
 author = "Taygun Bulmus"
-description = "Taygun Bulmus Personal Webside"
+description = "Taygun Bulmus Personal Website"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""
@@ -17,8 +17,8 @@ paginate = 3
 preserveTaxonomyNames = true
 
 [params]
-  orgName = "Taygun"
-  orgLocal = "Turkey"
+  orgName = "bulmust"
+  orgLocal = ""
   favicon = "/img/favicon.ico?v=0"
   logo = "/img/icon.png"
   # font options: sans-serif or serif

@@ -22,12 +22,12 @@ footer:
   # - name: Help
   #   title: Visit Help Site
   #   url: https://help.formspree.io
-  # - name: Privacy
-  #   title: Privacy Policy
-  #   url: https://help.formspree.io
-  # - name: Terms of Use
-  #   title: Terms and Conditions
-  #   url: https://help.formspree.io
+  - name: Linkedin
+    title: Linkedin
+    url: https://www.linkedin.com/in/bulmust/
+  - name: Github
+    title: Github
+    url: https://github.com/bulmust/
   - name: RSS
     title: RSS Feed
     url: /index.xml
