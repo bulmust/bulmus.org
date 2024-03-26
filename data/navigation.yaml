@@ -19,9 +19,6 @@ header:
   #   url: /elements/
 
 footer:
-  # - name: Help
-  #   title: Visit Help Site
-  #   url: https://help.formspree.io
   - name: Linkedin
     title: Linkedin
     url: https://www.linkedin.com/in/bulmust/
