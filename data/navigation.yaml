@@ -8,9 +8,9 @@ header:
   - name: Projects
     title: Projects
     url: /projects/
-  - name: Blog
-    title: Blog
-    url: /blog/
+  # - name: Blog
+  #   title: Blog
+  #   url: /blog/
   # - name: Contact
   #   title: Contact Form
   #   url: /contact/
