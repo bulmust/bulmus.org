@@ -1,7 +1,7 @@
 ---
 title: "Taygun Bulmus"
 subtitle: "Personal Website"
-description: "My journey began with a passion for physics, culminating in a [Ph.D. in computational astrophysics](https://github.com/bulmust/collNuPy). However, my true calling now lies in DevOps engineering. Right now, as a freelance DevOps engineer at [Borda](https://www.bordatech.com/), I thrive on sculpting robust bare metal Kubernetes monitoring structures, ensuring seamless operations. [I am open to new opportunities.](https://www.linkedin.com/in/bulmust/)"
+description: "My journey began with a passion for physics, leading to a [Ph.D. in computational astrophysics](https://github.com/bulmust/collNuPy). My true calling lies in DevOps engineering, where I currently thrive as a freelance DevOps engineer at [Bordatech Company](https://www.bordatech.com/). I specialize in crafting robust, highly available Kubernetes monitoring structures, optimizing continuous integration and deployment pipelines, and providing end-to-end control of infrastructure. With strong problem-solving skills, [I am open to new opportunities](https://www.linkedin.com/in/bulmust/)."
 date: 2024-02-28
 images:
   - img/taygunBulmus_black.JPG
