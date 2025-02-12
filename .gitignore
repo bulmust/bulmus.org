@@ -1,8 +1,5 @@
-*.DS_Store
-public/
-resources/
-node_modules/
-
-# tmp files
-/tmp
-.hugo_build.lock
+resources/*
+node_modules/*
+public/*
+# Ignore end with ~
+*~

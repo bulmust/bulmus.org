@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: Physics
+  filter: "physics"
+
+# your publications
+publications:
+- title: Spin-flavor precession phase effects in supernova
+  publishedIn:
+    name: Chinese Journal of Physics
+    date: October 2024
+    url: https://doi.org/10.1016/j.cjph.2024.07.001
+  authors:
+  - name: T. Bulmus
+    url: https://inspirehep.net/authors/1488462
+  - name: Y. Pehlivan
+    url: https://inspirehep.net/authors/1040042
+  paper:
+    summary: We study the phase effects driven by neutrino magnetic moment for Majorana neutrinos in a core collapse supernova. A neutrino with a large magnetic moment is emitted in a superposition of energy eigenstates from the neutrinosphere. These energy eigenstates can interfere to create a phase effect at a partially adiabatic spin flavor precession (SFP) resonance. We examine the dependence of the SFP phase effect on the size of the neutrino magnetic moment as well as its variation with the post-bounce time. In particular, at late post-bounce times the SFP resonance becomes wider and eventually overlaps with the Mikheev-Smirnov-Wolfenstein (MSW) resonance. At this point Landau-Zener criteria for adiabaticity can no longer be applied to individual resonances, but we show that SFP phase effect is still present after the overlap. We also discuss the observability of the SFP phase effect at Deep Underground Neutrino Experiment (DUNE). Our analysis reveals that at low energies event rates do not fluctuate despite the presence of a sizable SFP phase effect. We find larger event rate fluctuations at high energies, but these fluctuations are also erased in the energy spectra of the observed charged leptons. A more refined treatment of electron fraction and the inclusion of neutrino-neutrino interactions may change our conclusions for observability in future studies.
+    #url: https://example.com
+  categories: ["physics"]
+  tags: ["Neutrino", "Supernova", "Astrophysics"]
+
+- title: Astrophysical Neutrinos and Flavor Evolution with Self Interaction
+  publishedIn:
+    name: Proceedings of the 14th International Symposium on Nuclei in the Cosmos (NIC2016)
+    date: September 2016
+    url: https://doi.org/10.7566/JPSCP.14.020709
+  authors:
+  - name: T. Bulmus
+    url: https://inspirehep.net/authors/1488462
+  - name: Y. Pehlivan
+    url: https://inspirehep.net/authors/1040042
+  paper:
+    summary: In a core collapse supernova, collective oscillations of neutrinos emitted by the proto-neutron star significantly modifies the partition of energy between different flavors in a way which is potentially important for the nucleosynthesis of heavy elements at the outer layers. As the outcome of collective oscillations depends nonlinearly on the chosen initial conditions proto-neutron star, their systematical study across the proto-neutron star model space may provide answers to some key questions.
+    #url: https://example.com
+  categories: ["physics"]
+  tags: ["Neutrino", "Supernova", "Astrophysics"]

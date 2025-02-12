@@ -1,0 +1,101 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: PhD in Physics
+  icon: fa-microscope
+  timeframe: 2015-2022
+  institution:
+    name: Mimar Sinan Fine Arts University
+    url: "https://msgsu.edu.tr/"
+    logo: /images/sections/experiences/msgsu.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/tech_college.png
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.6
+  #   outOf: 4
+  # publications: #(optional)
+  # - title: Spin-Flavor Precession Phase Effects in Supernova
+  #   url: "https://doi.org/10.1016/j.cjph.2024.07.001"
+  # - title: Astrophysical Neutrinos and Flavor Evolution With Self Interaction
+  #   url: "https://doi.org/10.7566/JPSCP.14.020709"
+
+- name: MSc in Physics
+  icon: fa-microscope
+  timeframe: 2012-2015
+  institution:
+    name: Mimar Sinan Fine Arts University
+    url: "https://msgsu.edu.tr/"
+    logo: /images/sections/experiences/msgsu.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/university.jpg
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.5
+  #   outOf: 4
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades: true
+  #   collapseAfter: 3
+  #   courses:
+  #   - name: Data Structures and Algorithm
+  #     achieved: 3.75
+  #     outOf: 4
+  #   - name: Network Security
+  #     achieved: 3.80
+  #     outOf: 4
+  #   - name: Operating System
+  #     achieved: 3.5
+  #     outOf: 4
+  #   - name: Artificial Intelligent
+  #     achieved: 3.75
+  #     outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.
+  # customSections: #(optional)
+  #   - name: Thesis
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - name: Supervisor
+  #     content: Fusce eu augue ut odio porttitor pulvinar.
+- name: BSc in Applied Physics
+  icon: fa-graduation-cap
+  timeframe: 2006-2012
+  institution:
+    name: Istanbul Technical University
+    url: "#"
+    logo: /images/sections/education/itu.png
+    darkLogo: /images/sections/education/itu-dark.png
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 5
+  #   outOf: 5
+  # extracurricularActivities: #(optional)
+  # - Internship at Acibadem Medical Group, Treatment Planing of Cancer Cells with using LINAC
+
+- name: High School
+  icon: fa-school
+  timeframe: 2002-2006
+  institution:
+    name: Haydarpasa Lisesi
+    logo: /images/sections/education/hpal.png
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 4.5
+  #   outOf: 5

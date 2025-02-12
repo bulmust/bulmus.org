@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Cilium LB-IPAM & L2
+  timeline: "Janurary 2024"
+  organization:
+    name: Isovalent
+    #url:
+  #courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+  certificateURL: "https://www.credly.com/badges/6b24839a-28f3-4d56-91ed-d38f52f7a29d/linked_in_profile"

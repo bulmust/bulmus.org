@@ -1,0 +1,76 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Bordatech
+    url: "https://www.bordatech.com/"
+    location: Istanbul, Turkey
+    logo: /images/sections/experiences/borda.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: Improve the quality of healthcare services and make hospitals more operationally efficient by bringing operational awareness and insights through actionable IoT data.
+  positions:
+  - designation: DevOps Engineer
+    start: Oct 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Managing and maintain 10+ HA Kubernetes clusters and 500+ pods with high uptime,
+    - Planning sprint tasks, documenting wiki pages, and presenting weekly reports to the teams,
+    - Improved code deployment efficiency by automating processes with CI (Azure) / CD (Argocd) pipelines,
+    - Monitoring and troubleshooting production issues with Prometheus, LGTM, and OTel,
+    - Managed, backed up, and optimized Minio, MongoDB, Redis and PostgreSQL, ensuring high availability and disaster recovery,
+    - Automated manual tasks through scripting languages using python/shell/Ansible.
+
+  - designation: DevOps Engineer (Freelance)
+    start: Mar 2023
+    end: Oct 2024
+    responsibilities:
+    - Designed multi-cluster Kubernetes monitoring systems,
+    - Improved security and performance of infrastructure using Vault, Consul, Nexus, ...
+    - Deployed of microservices with Helm, ArgoCD and GitOps on air-gapped environments,
+    - Implemented CI pipelines with Azure DevOps.
+
+- company:
+    name: GSI Helmholtz Centre for Heavy Ion Research.
+    url: "https://www.gsi.de/en/"
+    location: Visiting Researcher
+    logo: /images/sections/experiences/gsi.png
+    # Can optionally show a different logo for dark theme
+    darkLogo: /images/sections/experiences/gsi-dark.jpg
+    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Intern
+    start: Oct 2018
+    end: Mar 2019
+    responsibilities:
+    - Created numerical model for neutrino nucleosynthesis using python/fortran on high-performance computing clusters,
+    - Generated massive nuclei production data and performed analysis to compare them with Solar System abundance.
+
+- company:
+    name: Mimar Sinan Fine Arts University
+    url: "https://msgsu.edu.tr/"
+    location: Istanbul, Turkey
+    logo: /images/sections/experiences/msgsu.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: Higher education institution focusing on arts and design.
+  positions:
+  - designation: Research Assistant
+    start: May 2017
+    end: Oct 2024
+    responsibilities:
+    - Teaching Computational Physics using Python (I, II) to undergraduate students,
+    - Developing Python scripts for collective neutrino oscillations in Supernova simulations,
+    - Deriving and implementing nucleosynthesis models for core-collapse supernovae remnants.
