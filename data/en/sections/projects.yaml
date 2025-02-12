@@ -1,0 +1,75 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Fun
+  filter: "fun"
+
+# your projects
+projects:
+- name: myk8s
+  logo: /images/sections/projects/myk8s.png
+  role: Developer
+  timeline: "October 2024 - August 2024"
+  #repo: https://github.com/bulmust/bulmust.myk8s # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://github.com/bulmust/bulmust.myk8s"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: My personal dev kind kubernetes server.
+  tags: ["professional"]
+
+- name: collNuPy
+  logo: /images/sections/projects/collNuPy.png
+  role: Developer
+  timeline: "October 2018 - October 2024"
+  #repo: https://github.com/tensorflow/tensorflow
+  url: "https://github.com/bulmust/bulmust.collNuPy"
+  summary: Python code for neutrino flavor transformation.
+  tags: ["academic"]
+
+- name: Computational Methods in Physics [TR]
+  logo: /images/sections/projects/bilgisayarli-yontemler.png
+  role: Developer
+  timeline: "September 2022 - September 2024"
+  url: "https://bulmust.org/bilgisayarli-yontemler/"
+  summary: My computational physics notes and codes which I give lectures in MSGSU. Turkey.
+  tags: ["academic"]
+
+- name: Dilemma [TR]
+  logo: /images/sections/projects/dilemma.png
+  role: Creator
+  timeline: "April 2020 - October 2020"
+  #repo: https://github.com/kelseyhightower/nocode
+  url: "https://www.youtube.com/playlist?list=PLOD7foN_wHVwnDIe2odw9JuImtrkHYrRl"
+  summary: "A 40-episode YouTube series exploring life's dilemmas."
+  tags: ["fun"]
+
+- name: High Performance Computing of Supernova - GSI/FAIR
+  #logo: /images/sections/projects/collNuPy.png
+  role: Executive
+  timeline: "September 2020 - Cancelled due to the pandemic"
+  #repo: https://github.com/tensorflow/tensorflow
+  #url: "https://github.com/bulmust/bulmust.collNuPy"
+  summary: Project aims to simulate the supernova explosion with the help of the GSI/FAIR supercomputer. The project is funded by GSI/FAIR.
+  tags: ["academic"]
+
+- name: Nucleosynthesis in Core-Collapse Supernova - TUBITAK
+  #logo: /images/sections/projects/collNuPy.png
+  role: Executive
+  timeline: "September 2018 - September 2019"
+  #repo: https://github.com/tensorflow/tensorflow
+  #url: "https://github.com/bulmust/bulmust.collNuPy"
+  summary: Project aims to simulate the nucleosynthesis in core-collapse supernovae. The research is conducted at GSI/FAIR in Darmstadt and is funded by TUBITAK.
+  tags: ["academic"]

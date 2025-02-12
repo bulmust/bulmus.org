@@ -1,0 +1,94 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: PhD, DevOps Enginner
+# your company information
+company:
+  name: Bordatech Company
+  url: "https://www.bordatech.com/"
+
+# a summary about you
+summary: 'My journey began with a passion for physics, leading to a PhD in computational astrophysics. My true calling lies in automation, development and operations, where I currently thrive as a full time DevOps engineer at Bordatech Company. I specialize in crafting robust, highly available production ready Kubernetes, optimizing continuous integration and deployment pipelines, and providing end-to-end control of infrastructure. With strong problem-solving skills, I am open to new opportunities.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "bulmust2@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/bulmust"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/bulmust/"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
+
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
+
+# - name: ResearchGate
+#   icon: "fab fa-researchgate"
+#   url: "https://www.researchgate.net/profile/john-doe"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Cilium LB-IPAM & L2
+  url: "https://www.credly.com/badges/6b24839a-28f3-4d56-91ed-d38f52f7a29d"
+  badge: "https://images.credly.com/size/340x340/images/d13e4a0f-9bb5-44c6-bf9e-8ffb9e90e501/image.png"
+
+# - type: certification
+#   name: Istio and IBM Cloud Kubernetes Service
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+# - type: certification
+#   name: Artificial Intelligence and Machine Learning
+#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 95
+#   color: yellow
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 90
+  color: orange #"#00adb5"
