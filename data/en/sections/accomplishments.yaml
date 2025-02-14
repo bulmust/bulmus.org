@@ -15,18 +15,99 @@ accomplishments:
   organization:
     name: Isovalent
   certificateURL: "https://www.credly.com/badges/6b24839a-28f3-4d56-91ed-d38f52f7a29d/linked_in_profile"
+
 - name: Observability Fundamentals
   timeline: "April 2023"
   organization:
     name: Elastic
   certificateURL: "https://github.com/bulmust/bulmust.github.io/blob/main/content/about/assets/certificates/2023_Elasticsearch_ObservabilityFundamentals.pdf"
+
 - name: Data Analysis with Python
   timeline: "February 2023"
   organization:
     name: freeCodeCamp
   certificateURL: "https://freecodecamp.org/certification/taygun/data-analysis-with-python-v7"
-- name: APS International Young Leaders Forum
-  timeline: "January 2021"
+
+- name: HEPAC-2020
+  timeline: "February 2020"
   organization:
-    name: American Physical Society
-  certificateURL: "files/certificates/2021_Young_Leaders_Forum.pdf"
+    name: Istanbul University
+  certificateURL: "files/certificates/2019_Istanbul_YEFAK.pdf"
+
+- name: 55th Karpacz Winter School of Theoretical Physics
+  timeline: "February 2019"
+  organization:
+    name: University of Wroclaw
+  certificateURL: "https://events.ift.uni.wroc.pl/event/47/registrations/participants"
+
+- name: Balkan School BS2018 - ”High Energy and Particle Physics
+  timeline: "June 2018"
+  organization:
+    name: Cern
+  certificateURL: "files/certificates/2018_Nis_High_Energy_And_Particle_Physics.pdf"
+
+- name: VII Pontecorvo Neutrino Physics School
+  timeline: "August 2017"
+  organization:
+    name: Czech Technical University
+  certificateURL: "files/certificates/2017_Pontecorvo_School.pdf"
+
+- name: YEFIST2017
+  timeline: "May 2017"
+  organization:
+    name: Yildiz Technical University
+  certificateURL: "files/certificates/2017_Istanbul_Yuksek_Enerji_Fizigi_Calistayi_TR.pdf"
+
+- name: NBIA Summer School on Neutrinos Underground & in the Heavens
+  timeline: "August 2016"
+  organization:
+    name: Niels Bohr Institute, University of Copenhagen
+  certificateURL: "files/certificates/2016_NBIA_Summer_School_on_Neutrino_Underground_and_in_the_Heavens.PDF"
+
+- name: Ankara YEF Günleri
+  timeline: "February 2015"
+  organization:
+    name: Middle East Technical University
+  certificateURL: "files/certificates/2015_AYEF_Ozet_Kitapcigi.pdf"
+
+- name: İstanbul Yüksek Enerji Fiziği Çalıştayı
+  timeline: "April 2014"
+  organization:
+    name: Özyeğin University
+  certificateURL: "files/certificates/2014_Istanbul_Yuksek_Enerji_Fizigi_Calistayi_TR.pdf"
+
+- name: Kuantum Alan Kuramı (QFT) Kış Okulu
+  timeline: "February 2014"
+  organization:
+    name: Boğaziçi University
+  certificateURL: "files/certificates/2014_Feza_Gursey_QFT_Kis_Okulu_TR.pdf"
+
+- name: II. Uludağ Yüksek Enerji Fiziği Kış Okulu
+  timeline: "February 2013"
+  organization:
+    name: Uludağ University
+  certificateURL: "files/certificates/2013_II_Uludag_Yuksek_Enerji_Fizigi_Kis_Okulu_TR.pdf"
+
+- name: XIII. Ulusal Medikal Fizik Kongresi
+  timeline: "November 2011"
+  organization:
+    name: Dokuz Eylül University
+  certificateURL: "files/certificates/2011_XIII_Ulusal_Medikal_Fizik_Kongresi_TR.pdf"
+
+- name: Yoğun Madde Fiziği ve Sistemler Biyolojisi
+  timeline: "August 2010"
+  organization:
+    name: TÜBİTAK
+  certificateURL: "files/certificates/2010_Yogun_Madde_Fizigi_ve_Sistemler_Biyolojisi_TR.pdf"
+
+- name: Summer School on Differential Geometry and Its Applications in Theoretical Physics
+  timeline: "August 2009"
+  organization:
+    name: TÜBİTAK
+  certificateURL: "files/certificates/2009_Summer_School_on_Differential_Geometry.pdf"
+
+- name: Etkili İletişim Teknikleri
+  timeline: "March 2007"
+  organization:
+    name: Leo Clubs
+  certificateURL: "files/certificates/2007_Etkili_Iletisim_Teknikleri_TR.pdf"
