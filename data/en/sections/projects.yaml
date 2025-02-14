@@ -43,7 +43,7 @@ projects:
   logo: /images/sections/projects/bilgisayarli-yontemler.png
   role: Developer
   timeline: "September 2022 - September 2024"
-  url: "https://bulmust.org/bilgisayarli-yontemler/"
+  url: "https://bulmust.github.io/bilgisayarli-yontemler/"
   summary: My computational physics notes and codes which I give lectures in MSGSU. Turkey.
   tags: ["academic"]
 
