@@ -8,13 +8,25 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-
 # Your accomplishments
 accomplishments:
 - name: Cilium LB-IPAM & L2
   timeline: "Janurary 2024"
   organization:
     name: Isovalent
-    #url:
-  #courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
   certificateURL: "https://www.credly.com/badges/6b24839a-28f3-4d56-91ed-d38f52f7a29d/linked_in_profile"
+- name: Observability Fundamentals
+  timeline: "April 2023"
+  organization:
+    name: Elastic
+  certificateURL: "https://github.com/bulmust/bulmust.github.io/blob/main/content/about/assets/certificates/2023_Elasticsearch_ObservabilityFundamentals.pdf"
+- name: Data Analysis with Python
+  timeline: "February 2023"
+  organization:
+    name: freeCodeCamp
+  certificateURL: "https://freecodecamp.org/certification/taygun/data-analysis-with-python-v7"
+- name: APS International Young Leaders Forum
+  timeline: "January 2021"
+  organization:
+    name: American Physical Society
+  certificateURL: "/certificates/2021_Young_Leaders_Forum.pdf"
