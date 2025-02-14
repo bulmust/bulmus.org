@@ -105,27 +105,27 @@ params:
     # Enable and configure blog posts
     blog:
       enable: true
-      showAuthor: true # shows the author of post (defaults true)
+      showAuthor: false # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
+        facebook: false
+        twitter: false
         linkedin: true
         reddit: true
-        whatsapp: true
+        whatsapp: false
         email: true
-        # tumblr: true
-        # pocket: true
-        # diaspora: true
-        # mastodon: true
+        tumblr: false
+        pocket: true
+        diaspora: false
+        mastodon: false
 
     # Enable & configure "Notes" features
     notes:
       enable: false
 
     # # Enable comment feature. There, should be only one of them.
-    # comment:
-    #   enable: false
+    comment:
+      enable: false
     #   services:
     #     disqus:
     #       shortName: taygun-example-site
@@ -159,36 +159,36 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
-      services:
-        # # Google Analytics
-        # google:
-        #   id: G-H4LBG7NDFZ
-        # # CounterDev
-        counterDev:
-          id: 30db299f-542f-43df-9518-f11eed10b985
-        # # GoatCounter
-        # goatCounter:
-        #   code: <your goat counter code>
-        # # Matomo / Piwik
-        # matomo:
-        #   instance: matomo.example.com
-        #   siteId: 1 # Or any other number
+      enabled: false
+      # services:
+      #   # Google Analytics
+      #   google:
+      #     id: G-H4LBG7NDFZ
+      #   # CounterDev
+      #   counterDev:
+      #     id:
+      #   # GoatCounter
+      #   goatCounter:
+      #     code: <your goat counter code>
+      #   # Matomo / Piwik
+      #   matomo:
+      #     instance: matomo.example.com
+      #     siteId: 1 # Or any other number
 
     # Enable Support
-    # support:
-    #   enable: false
-    #   services:
-    #     kofi:
-    #       user: hossainemruz
-    #       text: Tip Me
-    #       textColor: '#f9fafc'
-    #       backgroundColor: '#248aaa'
-        # buymeacoffee:
-        #   user: <your buymeacoffee.com user>
-        #   text: Support me on Buy me a coffee!
-        #   info: Buy me a coffee!
-        #   color: '#FFDD00'
+    support:
+      enable: false
+      # services:
+      #   kofi:
+      #     user: hossainemruz
+      #     text: Tip Me
+      #     textColor: '#f9fafc'
+      #     backgroundColor: '#248aaa'
+      #   buymeacoffee:
+      #     user: <your buymeacoffee.com user>
+      #     text: Support me on Buy me a coffee!
+      #     info: Buy me a coffee!
+      #     color: '#FFDD00'
 
     # specify whether you want to show Table of Contents in reading page
     toc:
