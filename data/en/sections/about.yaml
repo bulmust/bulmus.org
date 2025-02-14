@@ -15,7 +15,7 @@ company:
   url: "https://www.bordatech.com/"
 
 # a summary about you
-summary: 'My journey began with a passion for physics, leading to a PhD in computational astrophysics. My true calling lies in automation, development and operations, where I currently thrive as a full time DevOps engineer at Bordatech Company. I specialize in crafting robust, highly available production ready Kubernetes, optimizing continuous integration and deployment pipelines, and providing end-to-end control of infrastructure. With strong problem-solving skills, I am open to new opportunities.'
+summary: 'My journey began with a passion for physics, leading to a PhD in computational astrophysics. My true calling lies in automation, development and operations, where I currently thrive as a full time DevOps engineer at Bordatech Company. I specialize in crafting robust, highly available production ready Kubernetes, optimizing continuous integration and deployment pipelines, and providing end-to-end control of infrastructure. Having a strong background in scientific computing, I am adept at solving complex problems and implementing innovative solutions.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -28,9 +28,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/bulmust"
 
-# - name: Stackoverflow
-#   icon: "fab fa-stack-overflow"
-#   url: "#"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/10640063/bulmust"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
