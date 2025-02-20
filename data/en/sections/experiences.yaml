@@ -21,7 +21,7 @@ experiences:
     overview: Improve the quality of healthcare services and make hospitals more operationally efficient by bringing operational awareness and insights through actionable IoT data.
   positions:
   - designation: DevOps Engineer
-    start: Oct 2024
+    start: Mar 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -31,16 +31,17 @@ experiences:
     - Improved code deployment efficiency by automating processes with CI (Azure) / CD (Argocd) pipelines,
     - Monitoring and troubleshooting production issues with Prometheus, LGTM, and OTel,
     - Managed, backed up, and optimized Minio, MongoDB, Redis and PostgreSQL, ensuring high availability and disaster recovery,
-    - Automated manual tasks through scripting languages using python/shell/Ansible.
+    - Automated manual tasks through scripting languages using python/shell/Ansible,
+    - Transitioned from freelance to a full-time employee in October 2024.
 
-  - designation: DevOps Engineer (Freelance)
-    start: Mar 2023
-    end: Oct 2024
-    responsibilities:
-    - Designed multi-cluster Kubernetes monitoring systems,
-    - Improved security and performance of infrastructure using Vault, Consul, Nexus, ...
-    - Deployed of microservices with Helm, ArgoCD and GitOps on air-gapped environments,
-    - Implemented CI pipelines with Azure DevOps.
+  # - designation: DevOps Engineer (Freelance)
+  #   start: Mar 2023
+  #   end: Oct 2024
+  #   responsibilities:
+  #   - Designed multi-cluster Kubernetes monitoring systems,
+  #   - Improved security and performance of infrastructure using Vault, Consul, Nexus, ...
+  #   - Deployed of microservices with Helm, ArgoCD and GitOps on air-gapped environments,
+  #   - Implemented CI pipelines with Azure DevOps.
 
 - company:
     name: GSI Helmholtz Centre for Heavy Ion Research.
