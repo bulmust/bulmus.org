@@ -18,7 +18,8 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Improve the quality of healthcare services and make hospitals more operationally efficient by bringing operational awareness and insights through actionable IoT data.
+    overview: Secure infrastructure, create automation, and solve problems before they grow.
+    #Improve the quality of healthcare services and make hospitals more operationally efficient by bringing operational awareness and insights through actionable IoT data.
   positions:
   - designation: DevOps Engineer
     start: Mar 2023
@@ -46,13 +47,13 @@ experiences:
 - company:
     name: GSI Helmholtz Centre for Heavy Ion Research.
     url: "https://www.gsi.de/en/"
-    location: Visiting Researcher
+    location: Darmstadt, Germany
     logo: /images/sections/experiences/gsi.png
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/experiences/gsi-dark.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Research the origin of matter and why gold is rare while iron is not.
   positions:
-  - designation: Intern
+  - designation: Visiting Researcher
     start: Oct 2018
     end: Mar 2019
     responsibilities:
@@ -66,7 +67,7 @@ experiences:
     logo: /images/sections/experiences/msgsu.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: Higher education institution focusing on arts and design.
+    overview: Explore the smallest known particles,neutrinos and teach computer science to future physicists.
   positions:
   - designation: Research Assistant
     start: May 2017
