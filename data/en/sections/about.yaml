@@ -64,6 +64,21 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
+  name: Cilium Getting Started
+  url: "https://www.credly.com/badges/b1520d2f-2219-4290-b2e2-81a7573dde8c"
+  badge: "https://images.credly.com/size/340x340/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png"
+
+- type: certification
+  name: Golden Signals with Hubble and Grafana
+  url: "https://www.credly.com/badges/cc7c83d7-66cd-4115-a537-2c40edc0961a"
+  badge: "https://images.credly.com/size/340x340/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png"
+
+- type: certification
+  name: Cilium Envoy L7 Proxy
+  url: "https://www.credly.com/badges/012ccb8b-e0af-47e4-8ebf-5da1afcf0778"
+  badge: "https://images.credly.com/size/340x340/images/0db918e2-c509-476e-9bb0-9d5374644149/tempfile20250605-67-cwew1e.png"
+
+- type: certification
   name: Cilium LB-IPAM & L2
   url: "https://www.credly.com/badges/6b24839a-28f3-4d56-91ed-d38f52f7a29d"
   badge: "https://images.credly.com/size/340x340/images/decfc438-d202-4b39-909d-286e7ddba5b8/tempfile20250605-82-lddt90.png"
@@ -83,12 +98,12 @@ badges:
 #   percentage: 95
 #   color: yellow
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
 
-- type: soft-skill-indicator
-  name: Communication
-  percentage: 90
-  color: orange #"#00adb5"
+# - type: soft-skill-indicator
+#   name: Communication
+#   percentage: 90
+#   color: orange #"#00adb5"
