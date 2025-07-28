@@ -98,10 +98,10 @@ badges:
 #   percentage: 95
 #   color: yellow
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
 
 # - type: soft-skill-indicator
 #   name: Communication
