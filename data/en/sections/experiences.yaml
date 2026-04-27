@@ -27,13 +27,20 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Managing and maintain 10+ HA Kubernetes clusters and 500+ pods with high uptime,
-    - Planning sprint tasks, documenting wiki pages, and presenting weekly reports to the teams,
-    - Improved code deployment efficiency by automating processes with CI (Azure) / CD (Argocd) pipelines,
-    - Monitoring and troubleshooting production issues with Prometheus, LGTM, and OTel,
-    - Managed, backed up, and optimized Minio, MongoDB, Redis and PostgreSQL, ensuring high availability and disaster recovery,
-    - Automated manual tasks through scripting languages using python/shell/Ansible,
-    - Transitioned from freelance to a full-time employee in October 2024.
+      - "Architecture: Managed 10+ High-Availability Kubernetes clusters, achieving 99.9% uptime,"
+      - "Orchestration: Deployed and operated RabbitMQ, Minio, MongoDB and PostgreSQL ensuring HA and disaster recovery setups,"
+      - "Automation: Built GitOps-based CI/CD pipelines using Azure DevOps and ArgoCD, reducing deployment time from hours to minutes,"
+      - "Documentation: Worked in an Agile environment (sprints, reviews), keeping technical documentation and basic reporting up to date,"
+      - "Observability: Set up multi-tenant observability systems using the LGTM stack, otel, dashboards, alarms,"
+      - "Support: Provided development teams with reliable and scalable infrastructure solutions, reduced incident response times by 40%."
+
+  # - Managing and maintain 10+ HA Kubernetes clusters and 500+ pods with high uptime,
+  # - Planning sprint tasks, documenting wiki pages, and presenting weekly reports to the teams,
+  # - Improved code deployment efficiency by automating processes with CI (Azure) / CD (Argocd) pipelines,
+  # - Monitoring and troubleshooting production issues with Prometheus, LGTM, and OTel,
+  # - Managed, backed up, and optimized Minio, MongoDB, Redis and PostgreSQL, ensuring high availability and disaster recovery,
+  # - Automated manual tasks through scripting languages using python/shell/Ansible,
+  # - Transitioned from freelance to a full-time employee in October 2024.
 
   # - designation: DevOps Engineer (Freelance)
   #   start: Mar 2023
@@ -57,8 +64,11 @@ experiences:
     start: Oct 2018
     end: Mar 2019
     responsibilities:
-    - Created numerical model for neutrino nucleosynthesis using python/fortran on high-performance computing clusters,
-    - Generated massive nuclei production data and performed analysis to compare them with Solar System abundance.
+      - "Simulation: Modeled Supernova explosions on HPC systems (64 CPU, 512 GB RAM) using SLURM and Python,"
+      - "Reporting: Presented research findings and technical progress reports at the GSI Scientific Fair and to TUBITAK stakeholders."
+
+    # - Created numerical model for neutrino nucleosynthesis using python/fortran on high-performance computing clusters,
+    # - Generated massive nuclei production data and performed analysis to compare them with Solar System abundance.
 
 - company:
     name: Mimar Sinan Fine Arts University
@@ -73,6 +83,8 @@ experiences:
     start: May 2017
     end: Oct 2024
     responsibilities:
-    - Teaching Computational Physics using Python (I, II) to undergraduate students,
-    - Developing Python scripts for collective neutrino oscillations in Supernova simulations,
-    - Deriving and implementing nucleosynthesis models for core-collapse supernovae remnants.
+      - "Consulting: Provided DevOps architectural support and technical analysis services to Bordatech between March 2023 and October 2024,"
+      - "Teaching: Taught Computational Physics and Statistical Analysis with Python (4 semesters),"
+      - "Maintenance: Improved simulation lab infrastructure by automating configuration of 30+ machines with Ansible,"
+      - "Mentoring: Guided undergraduate students by assigning Python projects and following their progress over multiple semesters,"
+      - "Academic: Followed developments in computational physics and attended 20+ international conferences."

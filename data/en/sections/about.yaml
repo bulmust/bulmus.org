@@ -64,6 +64,16 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
+  name: "Discovery: Platform Engineer"
+  url: "https://www.credly.com/earner/earned/badge/2a012d67-b981-453a-bd12-3555bc7a8d90"
+  badge: "https://images.credly.com/size/340x340/images/ebc5f2cc-1702-4ea0-8d1a-5c6558e6e269/tempfile20250605-65-7h2iy0.png"
+
+- type: certification
+  name: Hubble Flow Visibility
+  url: "https://www.credly.com/badges/f7c7161b-4106-4ce7-9cc4-73cadfbdbd78"
+  badge: "https://images.credly.com/size/340x340/images/73b9049a-1555-4687-8b35-31f3d6e4b0a0/tempfile20250605-71-wqikcw.png"
+
+- type: certification
   name: Cilium Getting Started
   url: "https://www.credly.com/badges/b1520d2f-2219-4290-b2e2-81a7573dde8c"
   badge: "https://images.credly.com/size/340x340/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png"
