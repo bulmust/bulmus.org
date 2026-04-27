@@ -29,139 +29,139 @@ buttons:
 skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: " "
+  summary: ""
   categories: ["container"]
   url: "https://kubernetes.io/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: " "
+  summary: ""
   categories: ["container"]
   url: "https://www.docker.com/"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: " "
+  summary: ""
   categories: ["ci-cd"]
   url: "https://git-scm.com/"
 
 - name: Helm
   logo: /images/sections/skills/helm.png
-  summary: " "
+  summary: ""
   categories: ["ci-cd"]
   url: "https://helm.sh/"
 
 - name: Azure DevOps
   logo: /images/sections/skills/azure.png
-  summary: " "
+  summary: ""
   categories: ["ci-cd"]
   url: "https://azure.microsoft.com/en-us/products/devops/"
 
 - name: Ansible
   logo: /images/sections/skills/ansible.png
-  summary: " "
+  summary: ""
   categories: ["ci-cd"]
   url: "https://www.ansible.com/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: " "
+  summary: ""
   categories: ["core"]
   url: "https://www.linux.org/"
 
 - name: Python
   logo: /images/sections/skills/lang-python.png
-  summary: " "
+  summary: ""
   categories: ["language"]
   url: "https://www.python.org/"
 
 - name: Shell
   logo: /images/sections/skills/shell-black.png
-  summary: " "
+  summary: ""
   categories: ["language"]
-  url: " "
+  url: ""
 
 - name: LGTM (Loki/Grafana/Tempo/Mimir)
   logo: /images/sections/skills/lgtm.png
-  summary: " "
+  summary: ""
   categories: ["monitoring"]
   url: "https://grafana.com/"
 
 - name: OpenTelemetry
   logo: /images/sections/skills/otel.png
-  summary: " "
+  summary: ""
   categories: ["monitoring"]
   url: "https://opentelemetry.io/"
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: " "
+  summary: ""
   categories: ["monitoring"]
   url: "https://prometheus.io/"
 
 - name: ArgoCD
   logo: /images/sections/skills/argocd.png
-  summary: " "
+  summary: ""
   categories: ["ci-cd"]
   url: "https://argo-cd.readthedocs.io/"
 
 - name: Nginx
   logo: /images/sections/skills/nginx.png
-  summary: " "
+  summary: ""
   categories: ["Infrastructure"]
   url: "https://nginx.org/"
 
 - name: Cilium
   logo: /images/sections/skills/cilium.svg
-  summary: " "
+  summary: ""
   categories: ["Infrastructure"]
   url: "https://cilium.io/"
 
 - name: Cert-manager
   logo: /images/sections/skills/cert-manager.png
-  summary: " "
+  summary: ""
   categories: ["Infrastructure"]
   url: "https://cert-manager.io/"
 
 - name: Longhorn
   logo: /images/sections/skills/longhorn.png
-  summary: " "
+  summary: ""
   categories: ["Infrastructure"]
   url: "https://longhorn.io/"
 
 - name: Superset
   logo: /images/sections/skills/superset.png
-  summary: " "
+  summary: ""
   categories: ["BI"]
   url: "https://superset.apache.org/"
 
 - name: RabbitMQ
   logo: /images/sections/skills/rabbitmq.png
-  summary: " "
+  summary: ""
   categories: ["Middleware"]
   url: "https://www.rabbitmq.com/"
 
 - name: Vault
   logo: /images/sections/skills/vault.png
-  summary: " "
+  summary: ""
   categories: ["Infrastructure"]
   url: "https://www.hashicorp.com/en/products/vault"
 
 - name: PostgreSQL
   logo: /images/sections/skills/postgresql.png
-  summary: " "
+  summary: ""
   categories: ["Database"]
   url: "https://www.postgresql.org/"
 
 - name: MongoDB
   logo: /images/sections/skills/mongodb.png
-  summary: " "
+  summary: ""
   categories: ["Database"]
   url: "https://www.mongodb.com/"
 
 - name: MinIO
   logo: /images/sections/skills/minio.png
-  summary: " "
+  summary: ""
   categories: ["Database"]
   url: "https://github.com/minio/minio"
 
