@@ -10,6 +10,12 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Certified Kubernetes Administrator (CKA) with Practive Tests
+  timeline: "July 2026"
+  organization:
+    name: Udemy
+  certificateURL: "files/certificates/2026_udemy_certified_kubernetes_administrator_CKA.pdf"
+
 - name: Cilium LB-IPAM & L2
   timeline: "Janurary 2024"
   organization:
