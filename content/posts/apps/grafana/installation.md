@@ -1,6 +1,5 @@
 ---
 title: "Alerts"
-date: 2025-02-12T11:57:06+03:00
 description: Grafana Alerts
 menu:
   sidebar:
@@ -8,7 +7,7 @@ menu:
     identifier: grafana-alerts
     parent: grafana
     weight: 10
-hero: images/aboutThisWebsite-hero.svg
+hero: images/grafana.png
 tags:
 - Apps
 - Grafana
@@ -17,6 +16,8 @@ tags:
 - DevOps
 categories:
 - Apps
+created: 2026-07-21 16:08:10
+updated: 2026-07-21 16:20:50
 ---
 
 Grafana installation
