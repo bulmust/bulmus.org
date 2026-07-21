@@ -104,20 +104,20 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: false
+      enable: true
       showAuthor: false # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: false
-        twitter: false
+        facebook: true
+        twitter: true
         linkedin: true
         reddit: true
-        whatsapp: false
+        whatsapp: true
         email: true
         tumblr: false
-        pocket: true
+        pocket: false
         diaspora: false
-        mastodon: false
+        mastodon: true
 
     # Enable & configure "Notes" features
     notes:
@@ -159,11 +159,11 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: false
-      # services:
-      #   # Google Analytics
-      #   google:
-      #     id: G-H4LBG7NDFZ
+      enabled: true
+      services:
+        # Google Analytics
+        google:
+          id: G-6FWH3HVV7B
       #   # CounterDev
       #   counterDev:
       #     id:

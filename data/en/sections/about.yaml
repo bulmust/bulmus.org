@@ -28,9 +28,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/bulmust"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "https://stackoverflow.com/users/10640063/bulmust"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "https://stackoverflow.com/users/10640063/bulmust"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -62,46 +62,36 @@ socialLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-badges:
-- type: certification
-  name: "Discovery: Platform Engineer"
-  url: "https://www.credly.com/earner/earned/badge/2a012d67-b981-453a-bd12-3555bc7a8d90"
-  badge: "https://images.credly.com/size/340x340/images/ebc5f2cc-1702-4ea0-8d1a-5c6558e6e269/tempfile20250605-65-7h2iy0.png"
-
-- type: certification
-  name: Hubble Flow Visibility
-  url: "https://www.credly.com/badges/f7c7161b-4106-4ce7-9cc4-73cadfbdbd78"
-  badge: "https://images.credly.com/size/340x340/images/73b9049a-1555-4687-8b35-31f3d6e4b0a0/tempfile20250605-71-wqikcw.png"
-
-- type: certification
-  name: Cilium Getting Started
-  url: "https://www.credly.com/badges/b1520d2f-2219-4290-b2e2-81a7573dde8c"
-  badge: "https://images.credly.com/size/340x340/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png"
-
-- type: certification
-  name: Golden Signals with Hubble and Grafana
-  url: "https://www.credly.com/badges/cc7c83d7-66cd-4115-a537-2c40edc0961a"
-  badge: "https://images.credly.com/size/340x340/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png"
-
-- type: certification
-  name: Cilium Envoy L7 Proxy
-  url: "https://www.credly.com/badges/012ccb8b-e0af-47e4-8ebf-5da1afcf0778"
-  badge: "https://images.credly.com/size/340x340/images/0db918e2-c509-476e-9bb0-9d5374644149/tempfile20250605-67-cwew1e.png"
-
-- type: certification
-  name: Cilium LB-IPAM & L2
-  url: "https://www.credly.com/badges/6b24839a-28f3-4d56-91ed-d38f52f7a29d"
-  badge: "https://images.credly.com/size/340x340/images/decfc438-d202-4b39-909d-286e7ddba5b8/tempfile20250605-82-lddt90.png"
+# badges:
+# - type: certification
+#   name: "Discovery: Platform Engineer"
+#   url: "https://www.credly.com/earner/earned/badge/2a012d67-b981-453a-bd12-3555bc7a8d90"
+#   badge: "https://images.credly.com/size/340x340/images/ebc5f2cc-1702-4ea0-8d1a-5c6558e6e269/tempfile20250605-65-7h2iy0.png"
 
 # - type: certification
-#   name: Istio and IBM Cloud Kubernetes Service
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+#   name: Hubble Flow Visibility
+#   url: "https://www.credly.com/badges/f7c7161b-4106-4ce7-9cc4-73cadfbdbd78"
+#   badge: "https://images.credly.com/size/340x340/images/73b9049a-1555-4687-8b35-31f3d6e4b0a0/tempfile20250605-71-wqikcw.png"
 
 # - type: certification
-#   name: Artificial Intelligence and Machine Learning
-#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+#   name: Cilium Getting Started
+#   url: "https://www.credly.com/badges/b1520d2f-2219-4290-b2e2-81a7573dde8c"
+#   badge: "https://images.credly.com/size/340x340/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png"
+
+# - type: certification
+#   name: Golden Signals with Hubble and Grafana
+#   url: "https://www.credly.com/badges/cc7c83d7-66cd-4115-a537-2c40edc0961a"
+#   badge: "https://images.credly.com/size/340x340/images/b032dfda-f989-4639-ba0a-a430de2ec58c/tempfile20250605-58-cmcpw.png"
+
+# - type: certification
+#   name: Cilium Envoy L7 Proxy
+#   url: "https://www.credly.com/badges/012ccb8b-e0af-47e4-8ebf-5da1afcf0778"
+#   badge: "https://images.credly.com/size/340x340/images/0db918e2-c509-476e-9bb0-9d5374644149/tempfile20250605-67-cwew1e.png"
+
+# - type: certification
+#   name: Cilium LB-IPAM & L2
+#   url: "https://www.credly.com/badges/6b24839a-28f3-4d56-91ed-d38f52f7a29d"
+#   badge: "https://images.credly.com/size/340x340/images/decfc438-d202-4b39-909d-286e7ddba5b8/tempfile20250605-82-lddt90.png"
 
 # - type: soft-skill-indicator
 #   name: Team Work
