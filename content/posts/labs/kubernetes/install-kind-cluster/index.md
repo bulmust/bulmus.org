@@ -8,7 +8,7 @@ menu:
     identifier: kind-gateway
     parent: kubernetes
     weight: 10
-hero: images/hero/kind.png
+hero: images/hero-kubernetes.jpeg
 tags:
   - kubernetes
   - kubernetes-kind
@@ -16,7 +16,7 @@ tags:
 categories:
   - Basic
 created: 2026-07-24 18:26:28
-updated: 2026-07-24 20:03:41
+updated: 2026-07-24 20:32:42
 ---
 
 ## Install Kind Cluster
@@ -26,6 +26,7 @@ Before installation, check the latest version from [official kind repository](ht
 Install binary.
 
 ```bash
+
 # ======================
 # CHECK THIS VERSION
 KIND_VERSION=v0.32.0
@@ -46,6 +47,7 @@ sudo mv ./kind /usr/local/bin/kind
 Create kubernetes kind cluster for fast testing purpose.
 
 ```bash
+
 # Determine cluster name
 export CLUSTER_NAME=testing
 # Delete that named kind cluster if it is exists
@@ -71,6 +73,7 @@ You can install it using `go install sigs.k8s.io/cloud-provider-kind@latest`, `b
 Get the final version number of cloud-provider-kind from [official github repo](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/latest).
 
 ```bash
+
 # ======================
 # CHECK THIS VERSION
 VERSION="v0.11.1"
@@ -82,6 +85,7 @@ docker run -d --name cloud-provider-kind --rm --network host -v /var/run/docker.
 You can check gateway related crds.
 
 ```bash
+
 kubectl get crds|grep gateway.networking
 ```
 
