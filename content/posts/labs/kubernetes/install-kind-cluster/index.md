@@ -1,6 +1,6 @@
 ---
 title: "How to Install Kind Cluster with Gateway?"
-date: 2026-07-24T19:10:57+03:00
+date: 2026-07-24T19:33:57+03:00
 description:
 menu:
   sidebar:
@@ -8,7 +8,7 @@ menu:
     identifier: install-kind-cluster
     parent: kubernetes
     weight: 10
-hero: images/hero.png
+hero: images/hero/kind.png
 tags:
   - kubernetes
   - kubernetes-kind
@@ -16,11 +16,8 @@ tags:
 categories:
   - Basic
 created: 2026-07-24 18:26:28
-updated: 2026-07-24 19:33:12
+updated: 2026-07-24 20:02:23
 ---
-
-1. Install kind cluster if it is not installed
-2. Install cloud-provider-kind
 
 ## Install Kind Cluster
 
@@ -65,7 +62,7 @@ EOF
 
 ## Install Cloud Provider Kind
 
-_KIND has demonstrated to be a very versatile, efficient, cheap and very useful tool for Kubernetes testing. However, KIND doesn't offer capabilities for testing all the features that depend on cloud-providers, specifically the Load Balancers, causing a gap on testing and a bad user experience, since is not easy to connect to the applications running on the cluster._ [^1]
+_KIND has demonstrated to be a very versatile, efficient, cheap and very useful tool for Kubernetes testing. However, KIND doesn't offer capabilities for testing all the features that depend on cloud-providers, specifically the Load Balancers, causing a gap on testing and a bad user experience, since is not easy to connect to the applications running on the cluster._
 
 `LoadBalancer` is not strictly required for Kubernetes `Gateway` for local testing such as kind but in cloud environments it is usually recommended.
 
@@ -90,4 +87,4 @@ kubectl get crds|grep gateway.networking
 
 ## References
 
-[^1] : <https://github.com/kubernetes-sigs/cloud-provider-kind#kubernetes-cloud-provider-for-kind>
+1. <https://github.com/kubernetes-sigs/cloud-provider-kind#kubernetes-cloud-provider-for-kind>
