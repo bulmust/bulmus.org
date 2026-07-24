@@ -4,8 +4,8 @@ date: 2026-07-24T19:33:57+03:00
 description:
 menu:
   sidebar:
-    name: Install Kind Cluster
-    identifier: install-kind-cluster
+    name: kind-gateway
+    identifier: kind-gateway
     parent: kubernetes
     weight: 10
 hero: images/hero/kind.png
@@ -16,7 +16,7 @@ tags:
 categories:
   - Basic
 created: 2026-07-24 18:26:28
-updated: 2026-07-24 20:02:23
+updated: 2026-07-24 20:03:41
 ---
 
 ## Install Kind Cluster
