@@ -16,7 +16,7 @@ tags:
 categories:
   - Basic
 created: 2026-07-24 18:26:28
-updated: 2026-07-24 19:11:07
+updated: 2026-07-24 19:33:12
 ---
 
 1. Install kind cluster if it is not installed
@@ -90,4 +90,4 @@ kubectl get crds|grep gateway.networking
 
 ## References
 
-[^1] : https://github.com/kubernetes-sigs/cloud-provider-kind#kubernetes-cloud-provider-for-kind
+[^1] : <https://github.com/kubernetes-sigs/cloud-provider-kind#kubernetes-cloud-provider-for-kind>
