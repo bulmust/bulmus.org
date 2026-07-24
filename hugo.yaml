@@ -104,7 +104,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: false
+      enable: true
       showAuthor: false # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -121,7 +121,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: false
+      enable: true
 
     # # Enable comment feature. There, should be only one of them.
     comment:
@@ -310,4 +310,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: false
+      enable: true

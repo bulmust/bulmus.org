@@ -27,12 +27,12 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-      - "Architecture: Managed 10+ High-Availability Kubernetes clusters, achieving 99.9% uptime,"
-      - "Orchestration: Deployed and operated RabbitMQ, Minio, MongoDB and PostgreSQL ensuring HA and disaster recovery setups,"
+      - "Architecture: Designed and managed 10+ High-Availability Kubernetes clusters, achieving 99.9% uptime,"
+      - "Operations: Maintain production Kubernetes platforms and ensure reliability across on-prem/cloud environments,"
       - "Automation: Built GitOps-based CI/CD pipelines using Azure DevOps and ArgoCD, reducing deployment time from hours to minutes,"
-      - "Documentation: Worked in an Agile environment (sprints, reviews), keeping technical documentation and basic reporting up to date,"
-      - "Observability: Set up multi-tenant observability systems using the LGTM stack, otel, dashboards, alarms,"
-      - "Support: Provided development teams with reliable and scalable infrastructure solutions, reduced incident response times by 40%."
+      - "Documentation: Work in an Agile environment (sprints, reviews), keeping technical documentation and reporting up to date,"
+      - "Observability: Set up multi-tenant observability systems using the LGTM stack, with 24/7 oncall schedule,"
+      - "Impact: Provided development teams with reliable and scalable infrastructure solutions, reduced incident response times by 40%."
 
   # - Managing and maintain 10+ HA Kubernetes clusters and 500+ pods with high uptime,
   # - Planning sprint tasks, documenting wiki pages, and presenting weekly reports to the teams,
@@ -64,8 +64,8 @@ experiences:
     start: Oct 2018
     end: Mar 2019
     responsibilities:
-      - "Simulation: Modeled Supernova explosions on HPC systems (64 CPU, 512 GB RAM) using SLURM and Python,"
-      - "Reporting: Presented research findings and technical progress reports at the GSI Scientific Fair and to TUBITAK stakeholders."
+      - "Simulation: Executed large-scale astrophysical simulations on GPU-enabled HPC clusters using SLURM and Python,"
+      - "Reporting: Collaborated with international researchers, presenting scientific results at the GSI Scientific Fair and reporting to TÜBİTAK."
 
     # - Created numerical model for neutrino nucleosynthesis using python/fortran on high-performance computing clusters,
     # - Generated massive nuclei production data and performed analysis to compare them with Solar System abundance.
@@ -83,8 +83,9 @@ experiences:
     start: May 2017
     end: Oct 2024
     responsibilities:
-      - "Consulting: Provided DevOps architectural support and technical analysis services to Bordatech between March 2023 and October 2024,"
-      - "Teaching: Taught Computational Physics and Statistical Analysis with Python (4 semesters),"
-      - "Maintenance: Improved simulation lab infrastructure by automating configuration of 30+ machines with Ansible,"
-      - "Mentoring: Guided undergraduate students by assigning Python projects and following their progress over multiple semesters,"
-      - "Academic: Followed developments in computational physics and attended 20+ international conferences."
+      - "DevOps Consulting: Provided infrastructure modernization consulting to Bordatech (Mar 2023 - Oct 2024), assessing existing systems, designing DevOps architectures, and delivering improvements in automation, scalability, and reliability."
+      - "Infrastructure Automation: Redesigned labs infrastructure by automating configuration management for 30+ Linux machines with Ansible,"
+      - "Systems Administration: Managed and maintained a multi-node HPC/simulation environment,"
+      - "Teaching: Taught Computational and Statistical Analysis with Python across 4 semesters, developing hands-on curriculum for data analysis,"
+      - "Mentoring: Directed undergraduate Python projects, coaching 15+ students through iterative development cycles over 4 semesters,"
+      - "Academic: Maintained active engagement with computational physics research, presenting at 20+ international conferences."
