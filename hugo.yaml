@@ -105,7 +105,7 @@ params:
     # Enable and configure blog posts
     blog:
       enable: true
-      showAuthor: false # shows the author of post (defaults true)
+      showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
         facebook: true
