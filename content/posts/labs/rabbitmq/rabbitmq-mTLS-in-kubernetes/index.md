@@ -8,14 +8,13 @@ menu:
     identifier: rabbitmq-tls
     parent: rabbitmq
     weight: 10
-hero: images/hero-kubernetes-rabbitmq.jpeg
 tags:
   - rabbitmq-test
   - rabbitmq-tls
 categories:
   - Basic
 created: 2026-08-11 11:27:27
-updated: 2026-08-11 14:04:59
+updated: 2026-08-11 14:09:17
 ---
 
 ## What
