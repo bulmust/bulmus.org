@@ -1,6 +1,6 @@
 ---
 title: "The Complete Guide to RabbitMQ mTLS in Kubernetes"
-date: 2026-07-24T19:33:57+03:00
+date: 2026-08-11T14:03:46+03:00
 description:
 menu:
   sidebar:
@@ -15,7 +15,7 @@ tags:
 categories:
   - Basic
 created: 2026-08-11 11:27:27
-updated: 2026-08-11 13:48:37
+updated: 2026-08-11 14:04:59
 ---
 
 ## What
