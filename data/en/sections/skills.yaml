@@ -112,7 +112,7 @@ skills:
   url: "https://nginx.org/"
 
 - name: Cilium
-  logo: /images/sections/skills/cilium.svg
+  logo: /images/sections/skills/cilium.png
   summary: ""
   categories: ["Infrastructure"]
   url: "https://cilium.io/"
