@@ -165,6 +165,12 @@ skills:
   categories: ["Database"]
   url: "https://github.com/minio/minio"
 
+- name: Sonatype Nexus Repository
+  logo: /images/sections/skills/nexus_new.png
+  summary: ""
+  categories: ["ci-cd"]
+  url: "https://www.sonatype.com/products/sonatype-nexus-repository"
+
 # - name: C++
 #   logo: /images/sections/skills/c++.png
 #   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
