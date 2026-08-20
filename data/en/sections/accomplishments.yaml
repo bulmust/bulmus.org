@@ -10,7 +10,7 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: "CKA: Certified Kubernetes Administrator"
+- name: Certified Kubernetes Administrator
   timeline: "Aug 2026"
   organization:
     name: The Linux Foundation
