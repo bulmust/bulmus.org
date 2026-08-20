@@ -62,11 +62,11 @@ socialLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-# badges:
-# - type: certification
-#   name: "Discovery: Platform Engineer"
-#   url: "https://www.credly.com/earner/earned/badge/2a012d67-b981-453a-bd12-3555bc7a8d90"
-#   badge: "https://images.credly.com/size/340x340/images/ebc5f2cc-1702-4ea0-8d1a-5c6558e6e269/tempfile20250605-65-7h2iy0.png"
+badges:
+- type: certification
+  name: "Certified Kubernetes Administrator"
+  url: "https://www.credly.com/earner/earned/badge/a4f740a0-6a91-4e83-bda8-a911055b8b21"
+  badge: "https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
 
 # - type: certification
 #   name: Hubble Flow Visibility

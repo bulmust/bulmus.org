@@ -10,12 +10,12 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: KubeCon + CloudNativeCon Europe
-  timeline: "March 2026"
+- name: "CKA: Certified Kubernetes Administrator"
+  timeline: "Aug 2026"
   organization:
-    name: Linux Foundation
-    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
-  certificateURL: "files/certificates/2026_Kubecon_Amsterdam.pdf"
+    name: The Linux Foundation
+    url: https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+  certificateURL: "files/certificates/2026_Linux_Foundation_CKA.pdf"
 
 - name: Certified Kubernetes Administrator (CKA) with Practice Tests
   timeline: "July 2026"
@@ -23,6 +23,13 @@ accomplishments:
     name: Udemy
     url: https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
   certificateURL: "files/certificates/2026_Udemy_Certified_Kubernetes_Administrator_CKA.pdf"
+
+- name: KubeCon + CloudNativeCon Europe
+  timeline: "March 2026"
+  organization:
+    name: The Linux Foundation
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+  certificateURL: "files/certificates/2026_Kubecon_Amsterdam.pdf"
 
 - name: "Discovery: Platform Engineer"
   timeline: "August 2025"
