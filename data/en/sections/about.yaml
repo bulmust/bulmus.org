@@ -65,11 +65,11 @@ socialLinks:
 badges:
 - type: certification
   name: Certified Kubernetes Administrator
-  url: "https://www.credly.com/earner/earned/badge/a4f740a0-6a91-4e83-bda8-a911055b8b21"
+  url: "https://www.credly.com/badges/a4f740a0-6a91-4e83-bda8-a911055b8b21/public_url"
   badge: "https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
 - type: certification
   name: Introduction to Linux (LFS101)
-  url: "https://www.credly.com/earner/earned/badge/d3d829e1-9fd4-4fe5-9b3e-d5112a8e0480"
+  url: "https://www.credly.com/badges/d3d829e1-9fd4-4fe5-9b3e-d5112a8e0480"
   badge: "https://images.credly.com/size/340x340/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob"
 
 # - type: certification
