@@ -10,7 +10,14 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Certified Kubernetes Administrator
+- name: Introduction to Linux (LFS101)
+  timeline: "Sep 2026"
+  organization:
+    name: The Linux Foundation
+    url: https://training.linuxfoundation.org/training/introduction-to-linux/
+  certificateURL: "files/certificates/2026_Linux_Foundation_Introduction-to-Linux-lfs101.pdf"
+
+- name: Certified Kubernetes Administrator (CKA)
   timeline: "Aug 2026"
   organization:
     name: The Linux Foundation
